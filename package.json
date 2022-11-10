@@ -1,0 +1,17 @@
+{
+  "name": "module11_homework",
+  "version": "1.0.0",
+  "description": "\"function testing\"",
+  "main": "getPercent.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Dmitrii Liubich",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.20.2",
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.3.1",
+    "jest": "^29.3.1"
+  }
+}
